@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: react-ui
+  name: react-ui
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: react-ui
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert
+        kompose.version: 1.21.0 (992df58d8)
+      creationTimestamp: null
+      labels:
+        io.kompose.network/microservice: "true"
+        io.kompose.service: react-ui
+    spec:
+      containers:
+      - env:
+        - name: REACT_APP_COMMON_DATA_SERVICE_PORT
+        - name: REACT_APP_ENVIRONMENT
+        - name: REACT_APP_STRIPE_PUBLISH_KEY
+        image: react-ui
+        imagePullPolicy: ""
+        name: react-service-container
+        ports:
+        - containerPort: 3000
+        resources: {}
+        stdin: true
+        volumeMounts:
+        - mountPath: /usr/src/app
+          name: react-ui-claim0
+        - mountPath: /usr/src/app/node_modules
+          name: react-ui-claim1
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes:
+      - name: react-ui-claim0
+        persistentVolumeClaim:
+          claimName: react-ui-claim0
+      - name: react-ui-claim1
+        persistentVolumeClaim:
+          claimName: react-ui-claim1
+status: {}

@@ -1,0 +1,51 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: common-data-service
+  name: common-data-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: common-data-service
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert
+        kompose.version: 1.21.0 (992df58d8)
+      creationTimestamp: null
+      labels:
+        io.kompose.network/microservice: "true"
+        io.kompose.service: common-data-service
+    spec:
+      containers:
+      - env:
+        - name: ACTIVE_PROFILE
+        - name: DB_HOST
+          value: mysql-db
+        - name: DB_PASS
+        - name: DB_PORT
+        - name: DB_SCHEMA
+        - name: DB_USER
+        - name: PORT
+        - name: REACT_CLIENT_URL
+        - name: REDIS_HOST
+          value: redis-cache
+        - name: REDIS_PASSWORD
+        - name: REDIS_PORT
+        image: common-data-service
+        imagePullPolicy: ""
+        name: common-data-service-container
+        ports:
+        - containerPort: 9050
+        resources: {}
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes: null
+status: {}
