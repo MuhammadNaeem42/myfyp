@@ -9,12 +9,9 @@ category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/
 category|Website/categories/cat3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682079932/ccc_urndh5.png|Kurtas|Women
 category|Website/categories/cat2.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105974/ahbklutciomfdi7uf7bk.png|Casual Trousers|Men
 category|Website/categories/cat1.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105976/phxdpnewmacmnipeycxg.png|Tops|Women
-<<<<<<< HEAD
 category|Website/categories/cat6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078733/b_heerfi.png|Sports Shoes|Men
 category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078724/a_jmkaff.png|Blazers|Men
-=======
 category|Website/categories/cat6.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105977/d7ul4mcxhtzbsbf8aqs3.png|Sports Shoes|Men
->>>>>>> 1f8e04bfa432040ab497598158b6dba5f1e666f4
 carousel|Website/carousel/c1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_2_uwmx8m.png
 carousel|Website/carousel/c4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_1_o0spzz.png
 carousel|Website/carousel/c2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_3_rdej7s.png
