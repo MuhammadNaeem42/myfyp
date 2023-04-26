@@ -147,7 +147,6 @@
 18|Women|Jackets|SASSAFRAS|Women Printed Bomber Jacket|246|Women_1592032721300.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682491163/Women%20Jackets/rty_futedv.png
 19|Women|Jackets|Tokyo Talkies|Women Solid Denim Jacket|396|Women_1592032722940.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682491616/Women%20Jackets/awawawa_me6xkl.png
 20|Women|Jackets|STREET 9|Women Tailored Jacket|341|Women_1592032724677.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682491166/Women%20Jackets/te_rd2tjl.png
-=======
 1|Women|Tops|SASSAFRAS|Solid A-Line Top|306|Women_1592029957848.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103177/ht6phfaw8ja0sdcssdek.jpg
 2|Women|Tops|Harpa|Polka Dot Print Wrap Top|168|Women_1592029959098.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103178/xkc7a1twfcprovf6c9dv.jpg
 3|Women|Tops|Ives|Solid Shirt Style Top|221|Women_1592029960331.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103179/agzqdkulerue8iq4roqr.jpg
@@ -317,7 +316,6 @@
 18|Women|Jackets|SASSAFRAS|Women Printed Bomber Jacket|246|Women_1592032721300.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103362/wmpnblgexyswfimw7lw1.jpg
 19|Women|Jackets|Tokyo Talkies|Women Solid Denim Jacket|396|Women_1592032722940.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103364/gpckyabjmcwfa2eeuvrq.jpg
 20|Women|Jackets|STREET 9|Women Tailored Jacket|341|Women_1592032724677.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103364/sfk7xcsmfbr2uprajfst.jpg
->>>>>>> 1f8e04bfa432040ab497598158b6dba5f1e666f4
 1|Women|Suits|AKS|Women Woven Design Suit|222|Women_1592032817610.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103365/pmqqej9xa0oix9hf0cix.jpg
 2|Women|Suits|all about you|Women Self Design Suit|116|Women_1592032819506.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103366/iwewk9ngouzj7zibmjlc.jpg
 3|Women|Suits|AKS|Women Ikkat Woven Design Suit|293|Women_1592032821243.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103367/vlhj7kakdbdi7grltfph.jpg
@@ -355,7 +353,6 @@
 11|Women|Skirts|H&M|Solid A-line Skirt|63|Women_1592033076261.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103395/vxwzwegphx00cwn3yqbf.jpg
 12|Women|Skirts|Sera|Women Printed Flared Skirt|175|Women_1592033078013.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103396/hpe58yvfbnvvprfaiehb.jpg
 13|Women|Skirts|SASSAFRAS|Women Midi A-Line Skirt|217|Women_1592033080218.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103397/lod4vydvop8zuyjhjcax.jpg
-<<<<<<< HEAD
 1|Women|Tracksuits|HRX by Hrithik Roshan|Women Lifestyle Tracksuits|261|Women_1592033683314.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682393019/Women%20Tracksuits/trrt_lphvta.png
 2|Women|Tracksuits|HRX by Hrithik Roshan|Football RapidDry Tracksuit|207|Women_1592033685218.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682393019/Women%20Tracksuits/w48_yqocky.png
 3|Women|Tracksuits|Puma|Women Regular Fit Tracksuits|365|Women_1592033686854.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682393019/Women%20Tracksuits/tretr_rmlk3o.png
@@ -456,7 +453,6 @@
 18|Men|Sports Shoes|Nike|Men LEGEND REACT 2 Shoes|142|Men_1592034054992.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682510975/Men%20Sports%20Shoes/nikke_rihwiq.png
 19|Men|Sports Shoes|Nike|Women RENEW RIDE Running Shoes|402|Men_1592034056101.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682510277/Men%20Sports%20Shoes/noke_mmz79k.png
 20|Men|Sports Shoes|Skechers|Men Walking Shoes|114|Men_1592034057861.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682510275/Men%20Sports%20Shoes/1_jqak7c.png
-=======
 1|Women|Tracksuits|HRX by Hrithik Roshan|Women Lifestyle Tracksuits|261|Women_1592033683314.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103398/yzzjiyx5ogd4axysoc0j.jpg
 2|Women|Tracksuits|HRX by Hrithik Roshan|Football RapidDry Tracksuit|207|Women_1592033685218.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103399/dj5ag42y9bh7htm3ulfp.jpg
 3|Women|Tracksuits|Puma|Women Regular Fit Tracksuits|365|Women_1592033686854.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103399/ez3krxivjrxcekukw7gp.jpg
@@ -557,7 +553,6 @@
 18|Men|Sports Shoes|Nike|Men LEGEND REACT 2 Shoes|142|Men_1592034054992.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677303717/nike_rst6m3.png
 19|Men|Sports Shoes|Nike|Women RENEW RIDE Running Shoes|402|Men_1592034056101.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677641609/nikee_qvmppp.png
 20|Men|Sports Shoes|Skechers|Men Walking Shoes|114|Men_1592034057861.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677641609/reebookk_eztroh.png
->>>>>>> 1f8e04bfa432040ab497598158b6dba5f1e666f4
 1|Men|Shirts|LOCOMOTIVE|Men Slim Fit Casual Shirt|30|Men_1592034111077.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700238/Untitled_254_343_px_254_344_px_ty_n8xo74.png
 2|Men|Shirts|HIGHLANDER|Slim Fit Casual Shirt|69|Men_1592034112261.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677645126/srts_lzmrjt.png
 3|Men|Shirts|Mast & Harbour|Regular Fit Casual Linen Shirt|343|Men_1592034113376.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700238/Untitled_254_343_px_254_344_px_l_us5ts9.png
@@ -577,7 +572,6 @@
 17|Men|Shirts|HIGHLANDER|Men Slim Fit Casual Shirt|187|Men_1592034135061.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677645125/shrtts_tu7qp4.png
 18|Men|Shirts|Roadster|Time Travel Slim Check Casual|197|Men_1592034136171.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700236/Untitled_254_343_px_254_344_px_r_qhlwt1.png
 19|Men|Shirts|INVICTUS|Men Slim Fit Casual Shirt|407|Men_1592034137835.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677645125/shirts_btgcrg.png
-<<<<<<< HEAD
 20|Men|Shirts|HIGHLANDER|Men Slim Fit Casual Shirt|118|Men_1592034139473.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700237/Untitled_254_343_px_254_344_px_89_kfnglz.png
 1|Men|Jeans|LOCOMOTIVE|Men Tapered Fit Jeans|309|Men_1592034193361.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1679854770/aa_m1tjxv.png
 2|Men|Jeans|Roadster|Men Skinny Fit Jeans|396|Men_1592034194551.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1679854771/kkkllllll_aef982.png
@@ -719,8 +713,6 @@
 18|Men|Trousers|HIGHLANDER|Men Slim Fit Chinos|441|Men_1592035150304.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339069/Trousers/rrgrrtgre_mmmxgj.png
 19|Men|Trousers|BYFORD by Pantaloons|Men Slim Fit Regular Trousers|342|Men_1592035151995.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339069/Trousers/teiojjtjotreoijg_aech2v.png
 20|Men|Trousers|Roadster|Men Regular Fit Chinos|117|Men_1592035154603.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339070/Trousers/rrrtedf_gujxzx.png
-=======
-20|Men|Shirts|HIGHLANDER|Men Slim Fit Casual Shirt|118|Men_1592034139473.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103508/ql5vszdmmqvcm5bpgusk.jpg
 1|Men|Jeans|LOCOMOTIVE|Men Tapered Fit Jeans|309|Men_1592034193361.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103509/y9yovoku5yfurxeeyla3.jpg
 2|Men|Jeans|Roadster|Men Skinny Fit Jeans|396|Men_1592034194551.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103510/uiprlmxrrk0tho5ymnro.jpg
 3|Men|Jeans|HIGHLANDER|Men Slim Fit Jeans|364|Men_1592034196310.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103511/hjldhg29fsbhj71e6wnr.jpg
@@ -861,7 +853,6 @@
 18|Men|Trousers|HIGHLANDER|Men Slim Fit Chinos|441|Men_1592035150304.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103879/tceeixtyxq0hvspnbyhj.jpg
 19|Men|Trousers|BYFORD by Pantaloons|Men Slim Fit Regular Trousers|342|Men_1592035151995.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103894/nanxf715awzoi4zpycbn.jpg
 20|Men|Trousers|Roadster|Men Regular Fit Chinos|117|Men_1592035154603.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103896/qjfj598civoy8rfilrgh.jpg
->>>>>>> 1f8e04bfa432040ab497598158b6dba5f1e666f4
 1|Home & Living|Bedsheets|SEJ by Nisha Gupta|Double Bedsheet Pillow Covers|11|Home & Living_1592035201616.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103912/c8ceuhvkbjpqbzohsyzk.jpg
 2|Home & Living|Bedsheets|Rajasthan Decor|144 TC 1 King Bedsheet with 2 Pillow Covers|175|Home & Living_1592035203398.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103940/swzowz9yulsf4skiduck.jpg
 3|Home & Living|Bedsheets|Home Ecstasy|104 TC Cotton Double Bedsheet|494|Home & Living_1592035205118.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596103946/mgqwn7ca2yi6vgwcerxp.jpg
