@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1|Women|Tops|SASSAFRAS|Solid A-Line Top|306|Women_1592029957848.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682497358/Women%20Tops/s_qytshc.png
 2|Women|Tops|Harpa|Polka Dot Print Wrap Top|168|Women_1592029959098.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682497359/Women%20Tops/z_vdvbov.png
 3|Women|Tops|Ives|Solid Shirt Style Top|221|Women_1592029960331.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682497356/Women%20Tops/x_fdazew.png
