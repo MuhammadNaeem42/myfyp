@@ -1,19 +1,23 @@
-brand|Website/brands/b1.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105963/zckf4bzdrknbzgyqyxcb.png|Anouk
-brand|Website/brands/b2.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105965/wenn1zcpgf37e9oa1z4e.png|Mango
-brand|Website/brands/b3.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105966/tuk4suwzops3zjzouq7r.png|Nike
-brand|Website/brands/b4.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105967/apxetgfkaaxwo2tq7cfc.png|Mast & Harbour
-brand|Website/brands/b5.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105968/jnsm6ynmvr2ei3nxqutn.jpg|Roadster
-brand|Website/brands/b6.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105969/cxgfyhyqyznzdzh5sbks.png|Invictus
-category|Website/categories/cat5.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105970/xhjsvollns5ptmrmdxwc.png|Tshirts|Men
-category|Website/categories/cat4.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105972/u9hadup4hhgc7h3lsl5l.png|Dresses|Women
-category|Website/categories/cat3.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105973/jpbdnsre2isczjudkrnl.png|Kurtas|Women
+brand|Website/brands/b1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094632/an_whdvkl.png|Anouk
+brand|Website/brands/b2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/mangow_ircvyz.png|Mango
+brand|Website/brands/b3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/nk_peqsrk.png|Nike
+brand|Website/brands/b4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/mas_wizhal.png|Mast & Harbour
+brand|Website/brands/b5.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/rr_b0nhgh.png|Roadster
+brand|Website/brands/b6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094632/in_infhwo.png|Invictus
+category|Website/categories/cat5.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682079939/ddd_xeuizp.png|Tshirts|Men
+category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078724/a_jmkaff.png|Dresses|Women
+category|Website/categories/cat3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682079932/ccc_urndh5.png|Kurtas|Women
 category|Website/categories/cat2.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105974/ahbklutciomfdi7uf7bk.png|Casual Trousers|Men
 category|Website/categories/cat1.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105976/phxdpnewmacmnipeycxg.png|Tops|Women
-category|Website/categories/cat6.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105977/d7ul4mcxhtzbsbf8aqs3.png|Sports Shoes|Men
-carousel|Website/carousel/c1.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105979/x66lj1b4y4j2vz2rn26x.png
-carousel|Website/carousel/c4.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105981/xrvbpzjfhdhro9wooimh.png
-carousel|Website/carousel/c2.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105983/obndib6ujdyxsphn6h6s.png
-carousel|Website/carousel/c3.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105985/bxco4bjsnacotaj1w9l0.png
+category|Website/categories/cat6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078733/b_heerfi.png|Sports Shoes|Men
+category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078724/a_jmkaff.png|Blazers|Men
+carousel|Website/carousel/c1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_2_uwmx8m.png
+carousel|Website/carousel/c4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_1_o0spzz.png
+carousel|Website/carousel/c2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_3_rdej7s.png
+carousel|Website/carousel/c3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_4_ngvaaz.png
+carousel|Website/carousel/c5.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_z82846.png
+carousel|Website/carousel/c6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676663731/1_cglgow.png
+carousel|Website/carousel/c7.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676663733/2_kubfgy.png
 carousel|Website/carousel/men-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105986/s6hkposzszbldqrb1rzn.jpg|Men
 carousel|Website/carousel/women-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105986/nbdn4usqzbklceqquf4j.jpg|Women
 carousel|Website/carousel/kids-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105987/yafkspofakzpyxywuuyu.jpg|Boys,Girls

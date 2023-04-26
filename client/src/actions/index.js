@@ -100,46 +100,46 @@ export const signInUsingOAuth = googleAuth => async dispatch => {
                     })
                     history.push("/");
 
-                    // try {
-                    // let userProfile = googleAuth.currentUser.get().getBasicProfile()
-                    // if (userProfile) {
-                    //     const response = await authServiceAPI.post('/signin-using-google-auth', {
-                    //         'id': userProfile.getId(),
-                    //         'firstname': userProfile.getGivenName(),
-                    //         'lastname': userProfile.getFamilyName(),
-                    //         'email': userProfile.getEmail(),
-                    //         'username': null,
-                    //         'password': null,
-                    //     }).catch(err => {
-                    //         log.info(`[ACTION]: signUp dispatch HANDLE_SIGN_UP_ERROR err.message = ${err.message}.`)
-                    //     });
-                    //
-                    //     if(response.data === "success") {
+                     try {
+                     let userProfile = googleAuth.currentUser.get().getBasicProfile()
+                    if (userProfile) {
+                         const response = await authServiceAPI.post('/signin-using-google-auth', {
+                             'id': userProfile.getId(),
+                             'firstname': userProfile.getGivenName(),
+                             'lastname': userProfile.getFamilyName(),
+                             'email': userProfile.getEmail(),
+                             'username': null,
+                             'password': null,
+                         }).catch(err => {
+                             log.info(`[ACTION]: signUp dispatch HANDLE_SIGN_UP_ERROR err.message = ${err.message}.`)
+                         });
+                    
+                        if(response.data === "success") {
                     //         // here we are sure that we signed in and now dispatch.
-                    //         dispatch({
-                    //             type: HANDLE_GOOGLE_AUTH_SIGN_IN,
-                    //             payload: {
-                    //                 oAuth: googleAuth
-                    //             }
-                    //         })
-                    //         history.push("/");
-                    //     } else {
-                    //         dispatch({type: HANDLE_SIGN_IN_ERROR, payload: response.data.error});
-                    //     }
+                             dispatch({
+                                 type: HANDLE_GOOGLE_AUTH_SIGN_IN,
+                                 payload: {
+                                     oAuth: googleAuth
+                                 }
+                             })
+                             history.push("/");
+                         } else {
+                             dispatch({type: HANDLE_SIGN_IN_ERROR, payload: response.data.error});
+                         }
 
-                    // dispatch({
-                    //     type: HANDLE_GOOGLE_AUTH_SIGN_IN,
-                    //     payload: {
-                    //         oAuth: googleAuth
-                    //     }
-                    // })
-                    // history.push("/");
-                    // }
-                    // } catch
-                    //     (e) {
-                    //     log.info(`[signInUsingOAuth] Unable to retrieve user profile.`)
-                    //     dispatch({type: HANDLE_SIGN_IN_ERROR, payload: "Unable to retrieve user profile."});
-                    // }
+                     dispatch({
+                         type: HANDLE_GOOGLE_AUTH_SIGN_IN,
+                         payload: {
+                             oAuth: googleAuth
+                         }
+                     })
+                     history.push("/");
+                     }
+                     } catch
+                         (e) {
+                         log.info(`[signInUsingOAuth] Unable to retrieve user profile.`)
+                         dispatch({type: HANDLE_SIGN_IN_ERROR, payload: "Unable to retrieve user profile."});
+                     }
                 }
             }
         )
@@ -205,7 +205,7 @@ export const sendPaymentToken = (token) => async dispatch => {
     if (process.env.REACT_APP_PAYMENT_SERVICE_URL) {
         url = `${process.env.REACT_APP_PAYMENT_SERVICE_URL}/payment`
     } else {
-        url = `http://13.233.250.154:${process.env.REACT_APP_PAYMENT_SERVICE_PORT}/payment`
+        url = `http://localhost:${process.env.REACT_APP_PAYMENT_SERVICE_PORT}/payment`
     }
 
     let config = {

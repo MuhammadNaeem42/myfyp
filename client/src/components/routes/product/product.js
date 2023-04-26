@@ -48,7 +48,7 @@ function Product() {
     log.info("[Product] Rendering Product Component.")
     return (
         <Grid container>
-            <DocumentTitle title="Shoppers Products"/>
+            <DocumentTitle title="DockShop Products"/>
             <Grid item md={3} lg={2}>
                 <FilterNavBar linkList={breadcrumbLinks}/>
             </Grid>

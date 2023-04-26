@@ -133,33 +133,6 @@ services:
       - ${PAYMENT_SERVICE_PORT}:${PAYMENT_SERVICE_PORT}
     networks:
       - microservice
-  seller-account-service:
-    build:
-      context: .
-      dockerfile: ./server/seller-account-service/Dockerfile-dev
-    container_name: seller-account-service-container
-    restart: always
-    depends_on:
-      - mysql-db
-      - redis-cache
-      - react-ui
-    environment:
-      - DB_HOST=mysql-db
-      - DB_PORT=${DB_PORT}
-      - DB_USER=${DB_USER}
-      - DB_PASS=${DB_PASS}
-      - DB_SCHEMA=${DB_SCHEMA}
-      - ACTIVE_PROFILE=${ACTIVE_PROFILE}
-      - PORT=${SELLER_ACCOUNT_SERVICE_PORT}
-    links:
-      - mysql-db:mysql
-    expose:
-      - ${SELLER_ACCOUNT_SERVICE_PORT}
-    ports:
-      - ${SELLER_ACCOUNT_SERVICE_PORT}:${SELLER_ACCOUNT_SERVICE_PORT}
-    networks:
-      - microservice
-
   react-ui:
     build:
       context: .

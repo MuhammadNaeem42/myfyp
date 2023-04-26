@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 const DocumentTitle = ({ title }) => {
-    const defaultTitle = 'Shoppers';
+    const defaultTitle = 'DockShop';
     return (
         <Helmet>
             <title>{title ? title : defaultTitle}</title>
