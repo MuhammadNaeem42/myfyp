@@ -8,7 +8,7 @@ import Home from "./routes/home/home";
 import SignIn from "./routes/signin/signIn";
 import SignUp from "./routes/signup/signUp";
 import Product from "./routes/product/product";
-import ProductDetail from "./routes/detail/productDetails";
+import ProductPage from "./routes/detail/productPage";
 import Checkout from "./routes/checkout/checkout";
 import ShoppingBag from "./routes/shoppingBag";
 import {SuccessPayment} from "./routes/successPayment";
@@ -34,7 +34,7 @@ const App = () => {
                 <Route path="/shopping-bag" exact component={ShoppingBag}/>
                 <Route path="/checkout" exact component={Checkout}/>
                 <Route path="/products/details/shopping-bag" exact component={ShoppingBag}/>
-                <Route path="/products/:details" exact component={ProductDetail}/>
+                <Route path="/products/:details" exact component={ProductPage}/>
                 <Route path="/products" exact component={Product}/>
                 <Route path="/checkout/success-payment/:id" exact component={SuccessPayment}/>
                 <Route path="/checkout/cancel-payment/:id" exact component={CancelPayment}/>

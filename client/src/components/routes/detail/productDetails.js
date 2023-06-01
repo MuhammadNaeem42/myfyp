@@ -28,6 +28,7 @@ export const useButtonStyles = makeStyles(() => ({
     },
 }));
 
+
 function ProductDetails(props) {
     const classes = useButtonStyles()
     const selectProductDetail = useSelector(state => state.selectProductDetailReducer)
@@ -258,10 +259,7 @@ function ProductDetails(props) {
                             </Button>
                         </Grid>
                     </Grid>
-                    <Grid item style={{fontSize: "1.8rem", fontWeight: 1200, color: "blue"}}>
-                            Recommended Products ️‍🔥:
-                    </Grid>
-
+                    
                 </Grid>
             </Grid>
         </>

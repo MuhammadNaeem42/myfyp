@@ -1,16 +1,16 @@
-brand|Website/brands/b1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094632/an_whdvkl.png|Anouk
-brand|Website/brands/b2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/mangow_ircvyz.png|Mango
-brand|Website/brands/b3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/nk_peqsrk.png|Nike
-brand|Website/brands/b4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/mas_wizhal.png|Mast & Harbour
-brand|Website/brands/b5.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094631/rr_b0nhgh.png|Roadster
-brand|Website/brands/b6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682094632/in_infhwo.png|Invictus
-category|Website/categories/cat5.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682079939/ddd_xeuizp.png|Tshirts|Men
-category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078724/a_jmkaff.png|Dresses|Women
-category|Website/categories/cat3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682079932/ccc_urndh5.png|Kurtas|Women
-category|Website/categories/cat2.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105974/ahbklutciomfdi7uf7bk.png|Casual Trousers|Men
-category|Website/categories/cat1.png|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105976/phxdpnewmacmnipeycxg.png|Tops|Women
-category|Website/categories/cat6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078733/b_heerfi.png|Sports Shoes|Men
-category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682078724/a_jmkaff.png|Blazers|Men
+brand|Website/brands/b1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424032/ki_iyghye.png|Anouk
+brand|Website/brands/b2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424030/io0_eeelfi.png|Mango
+brand|Website/brands/b3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424031/jui_cpouht.png|Nike
+brand|Website/brands/b4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424028/kom_ulpntm.png|Mast & Harbour
+brand|Website/brands/b5.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424030/io_vyzkdg.png|Roadster
+brand|Website/brands/b6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684424029/i_i1um4x.png|Invictus
+category|Website/categories/cat5.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684423503/ytk_ckhkab.png|Tshirts|Men
+category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684422052/ee_evd47l.png|Dresses|Women
+category|Website/categories/cat3.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684422052/ty_i1itjw.png|Kurtas|Women
+category|Website/categories/cat2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684422052/ti_u2svpy.png|Casual Trousers|Men
+category|Website/categories/cat1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684520138/et_zsf38h.png|Tops|Women
+category|Website/categories/cat6.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684422052/a_zabjot.png|Sports Shoes|Men
+category|Website/categories/cat4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1684520138/iop_a7pupd.png|Blazers|Men
 carousel|Website/carousel/c1.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_2_uwmx8m.png
 carousel|Website/carousel/c4.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_1_o0spzz.png
 carousel|Website/carousel/c2.png|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678259428/Blue_Modern_Gadget_Banner_848_223_px_3_rdej7s.png

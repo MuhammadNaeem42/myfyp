@@ -226,26 +226,26 @@
 18|Women|Kurtis|Anubhutee|Checked Angrakha Kurti|434|Women_1592033869076.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682352785/kurtas%20women/errere_xswutn.png
 19|Women|Kurtis|Anubhutee|Women Printed Kurti|189|Women_1592033870229.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682352785/kurtas%20women/feihofr_pkkxuc.png
 20|Women|Kurtis|Jaipur Kurti|Women Solid Straight Kurti|87|Women_1592033871362.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682352784/kurtas%20women/dfgfg_k4ibpq.png
-1|Men|TShirts|HRX by Hrithik Roshan|Printed Round Neck T-Shirt|11|Men_1592033925637.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676632887/tshort_jd8zyt.png
-2|Men|TShirts|Roadster|Striped Round Neck Navy Blue T-shirt|480|Men_1592033926836.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700234/Untitled_254_343_px_254_344_px_pyujka.png
-3|Men|TShirts|FIDO DIDO|Solid Polo Collar T-shirt|126|Men_1592033927959.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676663752/tshort_fezaco.png
-4|Men|TShirts|DILLINGER|Colourblocked Round Neck Navy Blue T-shirt|179|Men_1592033929069.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/nikkkee_lxmrc6.png
-5|Men|TShirts|Roadster|Printed T-shirt|296|Men_1592033930179.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676663752/shrrtt_agklnm.png
-6|Men|TShirts|WROGN|Striped Slim Fit T-shirt|62|Men_1592033931289.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/aadidas_nd8keh.png
-7|Men|TShirts|Calvin Klein Jeans|Solid Round Neck T-shirt|254|Men_1592033933540.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/pumaaaa_swqhlw.png
-8|Men|TShirts|Proline Active|Pack Of 3 Neck T-shirt|351|Men_1592033935188.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/adidas_jmid8z.png
-9|Men|TShirts|H&M|Cotton T-shirt Regular Fit|355|Men_1592033936313.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/adiidas_odyw3l.png
-10|Men|TShirts|Roadster|Striped Round Neck T-shirt|226|Men_1592033937419.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676663731/download_sgbvpc.jpg
-11|Men|TShirts|Roadster|Printed Polo Collar T-shirt|491|Men_1592033939174.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256333/reebok_v3lkzq.png
-12|Men|TShirts|Roadster|Men Striped Round Neck T-shirt|145|Men_1592033941021.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1676700235/Untitled_254_343_px_254_344_px_1_ql8wyr.png
-13|Men|TShirts|H&M|Cotton T-shirt Regular Fit|336|Men_1592033942147.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/nike_od4mzp.png
-14|Men|TShirts|FIDO DIDO|Slim Fit Polo Collar T-shirt|273|Men_1592033943266.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/nikke_btltv3.png
-15|Men|TShirts|Proline Active|Pack of 3 Solid T-shirts|74|Men_1592033944403.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/rebook_mh5kmk.png
-16|Men|TShirts|WROGN|Striped Slim Fit T-shirt|163|Men_1592033946223.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/nikkke_ut9lae.png
-17|Men|TShirts|Roadster|Printed Round Neck T-shirt|125|Men_1592033947883.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/pumaa_co8joq.png
-18|Men|TShirts|Roadster|Solid Round Neck T-shirt|420|Men_1592033949620.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/pummaaaa_wyrg2z.png
-19|Men|TShirts|WROGN|Colourblocked Polo Collar T-shirt|355|Men_1592033951261.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256332/puma_ahyamv.png
-20|Men|TShirts|HERE&NOW|Men Printed Round Neck T-shirt|249|Men_1592033953818.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1677256331/adiiidas_om2ghn.png
+1|Men|TShirts|HRX by Hrithik Roshan|Printed Round Neck T-Shirt|11|Men_1592033925637.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/ewer_gseca1.png
+2|Men|TShirts|Roadster|Striped Round Neck Navy Blue T-shirt|480|Men_1592033926836.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/errtr_wcpxfw.png
+3|Men|TShirts|FIDO DIDO|Solid Polo Collar T-shirt|126|Men_1592033927959.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/er_qgyexm.png
+4|Men|TShirts|DILLINGER|Colourblocked Round Neck Navy Blue T-shirt|179|Men_1592033929069.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/erg5_snmvtk.png
+5|Men|TShirts|Roadster|Printed T-shirt|296|Men_1592033930179.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100862/Men%20T-Shirts/redwolf-mystery-t-shirt-india-438x438_nlwokf.webp
+6|Men|TShirts|WROGN|Striped Slim Fit T-shirt|62|Men_1592033931289.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/rer_uwm1qt.png
+7|Men|TShirts|Calvin Klein Jeans|Solid Round Neck T-shirt|254|Men_1592033933540.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100668/Men%20T-Shirts/rertwqe_fqnn7i.png
+8|Men|TShirts|Proline Active|Pack Of 3 Neck T-shirt|351|Men_1592033935188.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100668/Men%20T-Shirts/weretr_zcflvp.png
+9|Men|TShirts|H&M|Cotton T-shirt Regular Fit|355|Men_1592033936313.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100668/Men%20T-Shirts/qw_dkjgam.png
+10|Men|TShirts|Roadster|Striped Round Neck T-shirt|226|Men_1592033937419.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100668/Men%20T-Shirts/sd_arm0a2.png
+11|Men|TShirts|Roadster|Printed Polo Collar T-shirt|491|Men_1592033939174.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100862/Men%20T-Shirts/redwolf-mystery-t-shirt-india-438x438_nlwokf.webp
+12|Men|TShirts|Roadster|Men Striped Round Neck T-shirt|145|Men_1592033941021.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100666/Men%20T-Shirts/c_r07pwh.png
+13|Men|TShirts|H&M|Cotton T-shirt Regular Fit|336|Men_1592033942147.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100667/Men%20T-Shirts/eeer_wvrg4l.png
+14|Men|TShirts|FIDO DIDO|Slim Fit Polo Collar T-shirt|273|Men_1592033943266.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100666/Men%20T-Shirts/b_flkijq.png
+15|Men|TShirts|Proline Active|Pack of 3 Solid T-shirts|74|Men_1592033944403.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100665/Men%20T-Shirts/342ed_lkeir9.png
+16|Men|TShirts|WROGN|Striped Slim Fit T-shirt|163|Men_1592033946223.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100862/Men%20T-Shirts/redwolf-mystery-t-shirt-india-438x438_nlwokf.webp
+17|Men|TShirts|Roadster|Printed Round Neck T-shirt|125|Men_1592033947883.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100666/Men%20T-Shirts/a_hgfqmf.png
+18|Men|TShirts|Roadster|Solid Round Neck T-shirt|420|Men_1592033949620.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100666/Men%20T-Shirts/345_qmysa5.png
+19|Men|TShirts|WROGN|Colourblocked Polo Collar T-shirt|355|Men_1592033951261.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100666/Men%20T-Shirts/345_qmysa5.png
+20|Men|TShirts|HERE&NOW|Men Printed Round Neck T-shirt|249|Men_1592033953818.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683100862/Men%20T-Shirts/redwolf-mystery-t-shirt-india-438x438_nlwokf.webp
 1|Men|Sports Shoes|Skechers|Men GO TRAIL Running Shoes|492|Men_1592034030195.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682511320/Men%20Sports%20Shoes/dds_srp21l.png
 2|Men|Sports Shoes|Nike|Men ZOOM WINFLO Running Shoes|360|Men_1592034032037.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682510274/Men%20Sports%20Shoes/nik_j6kllz.png
 3|Men|Sports Shoes|Puma|Men Echelon V2 Running Shoes|270|Men_1592034033145.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682510278/Men%20Sports%20Shoes/puma_juqfol.png
@@ -398,10 +398,10 @@
 10|Men|Sweaters|Roadster|Men Solid Pullover Sweater|341|Men_1592035062338.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322493/Sweaters/bvui_zmsymr.png
 11|Men|Sweaters|Roadster|Colourblock Cardigan|242|Men_1592035065005.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322496/Sweaters/u_chbkhu.png
 12|Men|Sweaters|Roadster|Men Self Design Pullover|422|Men_1592035066637.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322493/Sweaters/dtyfu_tccfjp.png
-13|Men|Sweaters|H&M|Men Zip-Up Cardigan|344|Men_1592035068368.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/dtygfu_p4g1oy.png
+13|Men|Sweaters|H&M|Men X Zip-Up Cardigan|344|Men_1592035068368.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/dtygfu_p4g1oy.png
 14|Men|Sweaters|Roadster|Men Solid Sweater|324|Men_1592035070564.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/guk_kzahx7.png
 15|Men|Sweaters|Marks & Spencer|Men Striped Sweater|371|Men_1592035072274.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322495/Sweaters/sf_wpxidg.png
-16|Men|Sweaters|Roadster|Men Colourblocked Sweater|92|Men_1592035074117.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/fy7_nefw0m.png
+16|Men|Sweaters|Roadster|X Men Colourblocked Sweater|92|Men_1592035074117.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/fy7_nefw0m.png
 17|Men|Sweaters|Calvin Klein Jeans|Men Solid Sweater|27|Men_1592035075755.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322497/Sweaters/yfui_zljkqi.png
 18|Men|Sweaters|Calvin Klein Jeans|Men Self-Design Sweater|361|Men_1592035077370.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/guug_iwr3rz.png
 19|Men|Sweaters|Calvin Klein Jeans|Men Self-Design Sweater|408|Men_1592035080090.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682322494/Sweaters/hiiit_dcbdxt.png
@@ -409,7 +409,7 @@
 1|Men|Trousers|HIGHLANDER|Men Tapered Fit Chinos|252|Men_1592035128842.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339070/Trousers/trtytytretr_mjroib.png
 2|Men|Trousers|WROGN|Men Camouflage Joggers|85|Men_1592035130060.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/rejktrlkj_gnjmus.png
 3|Men|Trousers|WROGN|Men Regular Fit Joggers|432|Men_1592035131165.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339070/Trousers/tetrgtr_fvz8ne.png
-4|Men|Trousers|Roadster|Men Regular Fit Chinos|19|Men_1592035132273.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/r_oakery.png
+4|Men|Trousers|Roadster|X Men Regular Fit Chinos|19|Men_1592035132273.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/r_oakery.png
 5|Men|Trousers|Calvin Klein Jeans|Men Slim Fit Chinos|433|Men_1592035133371.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/ewrretrey_kuyqie.png
 6|Men|Trousers|HIGHLANDER|Men Slim Fit Regular Trousers|33|Men_1592035134471.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/ereterryytgdfvds_itxtfg.png
 7|Men|Trousers|HERE&NOW|Men Slim Fit Chinos|143|Men_1592035135655.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682339068/Trousers/dfjkljklkgewr_kr74qy.png
@@ -736,16 +736,6 @@
 8|Boys|Sweatshirts|Marks & Spencer|Boys Hooded Sweatshirt|194|Boys_1592075506283.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104478/fmyfqolggh44dazugbm5.jpg
 9|Boys|Sweatshirts|Actuel|Boys Solid Sweatshirt|433|Boys_1592075508023.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678301508/ssd_sv2kd7.png
 10|Boys|Sweatshirts|Instafab|Boys Printed Sweatshirt|21|Boys_1592075510587.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104480/nb9cqi7yudnlp9zhhpln.jpg
-11|Boys|Sweatshirts|HRX by Hrithik Roshan|Boys U-17 Training Sweatshirt|492|Boys_1592075512836.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678301687/abc_fkyplj.png
-12|Boys|Sweatshirts|H&M|Printed Appliqud Sweatshirt|107|Boys_1592075514371.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104481/cvhvfqpp2ljfmfga520h.jpg
-13|Boys|Sweatshirts|Cherry Crumble|Kids Printed Sweatshirt|114|Boys_1592075516085.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104482/npd9j8ddail3mzkulyqq.jpg
-14|Boys|Sweatshirts|Instafab|Boys Colourblocked Sweatshirt|182|Boys_1592075517731.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104483/dt3imri1ohkwjxe6vd5c.jpg
-15|Boys|Sweatshirts|Marks & Spencer|Boys Printed Sweatshirt|81|Boys_1592075519891.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104484/rxrrwse9ydbl0zkzwkgc.jpg
-16|Boys|Sweatshirts|H&M|Boys Waffled Top|234|Boys_1592075521647.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678301507/aaa_iyjiqf.png
-17|Boys|Sweatshirts|Kappa|Boys Hooded Sweatshirt|112|Boys_1592075523473.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104486/x5dyjngfoyzv1vya8kef.jpg
-18|Boys|Sweatshirts|Instafab|Boys Printed Sweatshirt|238|Boys_1592075525056.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104487/coa2ameswd8lxxt5jep9.jpg
-19|Boys|Sweatshirts|GAP|Boys Graphic Sweatshirt|126|Boys_1592075526635.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1678301509/sdssdddd_vi12ap.png
-20|Boys|Sweatshirts|YK Disney|Boys Printed Sweatshirt|13|Boys_1592075528300.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104488/kfbsqbxuyvoh3kupn84z.jpg
 1|Boys|Shorts|TINY HUG|Boys Regular Fit Regular Shorts|136|Boys_1592075566616.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104489/nfsvnugqzi7cci4hefrr.jpg
 2|Boys|Shorts|HRX by Hrithik Roshan|Boys Regular Fit Regular Shorts|285|Boys_1592075569054.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104490/bh6pu15qz53wwla9qcvh.jpg
 3|Boys|Shorts|United Colors of Benetton|Boys Washed Denim Shorts|367|Boys_1592075570153.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104491/q8kbbqotqka9f5uriraj.jpg
@@ -789,7 +779,7 @@
 10|Boys|Trousers|H&M|Boys Cotton Jersey Joggers|370|Boys_1592075711801.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104524/a2urqcjcy4qhlvmgas0m.jpg
 11|Boys|Trousers|Campana|Boys Regular Fit Joggers|238|Boys_1592075713445.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104525/cs6amhyfhxam4ujfurin.jpg
 1|Boys|Jackets|Puma|Boys Colourblocked Sporty Jacket|87|Boys_1592075747620.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104526/fxzf5iod85wcntoubepp.jpg
-2|Boys|Jackets|HRX by Hrithik Roshan|U-17 Active Training Jacket|411|Boys_1592075750101.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104527/t4awz7mycq3uiuz7ytkb.jpg
+2|Boys|Jackets|HRX by Hrithik Roshan|U-17 Active Training Jacket|411|Boys_1592075750101.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1682504138/Men%20Jacket/se_nmpjo3.png
 3|Boys|Jackets|GAP|Boys' Critter Puffer Jacket|162|Boys_1592075751740.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104528/cigotqsbrvnn3rxo8nx4.jpg
 4|Boys|Jackets|H&M|Boys Solid Hooded Padded Gilet|85|Boys_1592075753376.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104528/peen3lj0olpbp3qbe5wi.jpg
 5|Boys|Jackets|United Colors of Benetton|Boys Solid Bomber Jacket|463|Boys_1592075755119.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104529/gaza3x9tupi2tdhrybua.jpg
@@ -819,80 +809,68 @@
 18|Boys|Sweaters|United Colors of Benetton|Boys Self Design Sweater|307|Boys_1592075931658.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104549/yydbxv3tzl65hk0mejjw.jpg
 19|Boys|Sweaters|H&M|Boys 2-Pack Cotton Cardigans|209|Boys_1592075933397.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104550/nxplskmreaej4msa7zpw.jpg
 20|Boys|Sweaters|Allen Solly Junior|Boys Self Design Sweater|146|Boys_1592075935142.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104551/o3a3tyvun638cik4jiqh.jpg
-1|Girls|Dresses|Natilene|Girls Solid A-Line Dress|440|Girls_1592075978080.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104552/pc1kyqljdpczbiqmksab.jpg
-2|Girls|Dresses|Pantaloons Junior|Girls Solid Pinafore Dress|432|Girls_1592075979890.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104553/wihwen3ztzt6ierk3jfp.jpg
-3|Girls|Dresses|CUTECUMBER|Girls Printed Fit and Flare Dress|192|Girls_1592075981531.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104554/mqmxjhgnolh35rki339t.jpg
-4|Girls|Dresses|Pantaloons Junior|Girls Self Design Fit and Flare Dress|332|Girls_1592075983269.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104554/j87cvigm6odxenb6mna3.jpg
-5|Girls|Dresses|pspeaches|Girls Printed Fit and Flare Dress|274|Girls_1592075985008.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104555/vda1rh86i43lpyfpcfr2.jpg
-6|Girls|Dresses|Nauti Nati|Girls Ruffle A-Line Dress|331|Girls_1592075986752.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104556/wxsmtcnn9om9h8e0lxh4.jpg
-7|Girls|Dresses|United Colors of Benetton|Solid Fit & Flare Dress|459|Girls_1592075988491.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104557/ftfkpm6cqjax9zx1mpfg.jpg
-8|Girls|Dresses|Chicco|Girls Colourblocked Fit and Flare Dress|102|Girls_1592075989609.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104558/ylhhshvxkrssdgye6t8k.jpg
-9|Girls|Dresses|MINI KLUB|Infant A-Line Dress|75|Girls_1592075991357.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104559/abc7wo4jw9qxzswr2ihq.jpg
-10|Girls|Dresses|CUTECUMBER|Girls Floral Printed Dress|341|Girls_1592075992996.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104560/czcchem4zt7caxjwhdpq.jpg
-11|Girls|Dresses|LilPicks|Girls Printed Fit and Flare Dress|466|Girls_1592075994633.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104560/pitydngmaprnaz2fdabm.jpg
-12|Girls|Dresses|Stylo Bug|Girls Printed Fit and Flare Dress|380|Girls_1592075996273.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104561/pqhewkrtloevodsfxzq6.jpg
-13|Girls|Dresses|Gini and Jony|Girls Printed Fit and Flare Dress|477|Girls_1592075997913.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104562/raal3ghya50yvolp0iej.jpg
-14|Girls|Dresses|GAP|Girls' Print Mix-Fabric Dress|209|Girls_1592075999693.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104563/iu4bbg4xichp1jkan4sr.jpg
-15|Girls|Dresses|H&M|Shimmering Dress|36|Girls_1592076001302.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104564/paeyiqdaklhfz2kfirtg.jpg
-16|Girls|Dresses|Nauti Nati|Girls Printed A-Line Dress|223|Girls_1592076003034.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104565/szdx5wc2wxmhpzgw106o.jpg
-17|Girls|Dresses|MINI KLUB|Pack of 2 Fit and Flare Dress|220|Girls_1592076004770.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104566/jazroqkravdps5z16qvj.jpg
-18|Girls|Dresses|pspeaches|Girls Printed Fit and Flare Dress|172|Girls_1592076006515.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104566/ou8nqblrikdfvmwnidy0.jpg
-19|Girls|Dresses|Samsara Couture|Girls Embellished Maxi Dress|370|Girls_1592076008257.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104567/zpa0tdy9tzora5bzetkn.jpg
-20|Girls|Dresses|MINI KLUB|Girls Embroidered A-Line Dress|107|Girls_1592076009894.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104568/a1yqino7ianfu2uwbfzx.jpg
-1|Girls|Tops|Pantaloons Junior|Girls Checked Shirt Style Top|402|Girls_1592076050800.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104569/lsu4cww87cnq9nlv8sff.jpg
-2|Girls|Tops|Marks & Spencer|Girls Pack of 5 Bralette Tops|419|Girls_1592076052803.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104570/zwchc4fkjxntyzvxzsmr.jpg
-3|Girls|Tops|CACA CINA|Georgette Polka Dot Top|132|Girls_1592076053918.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104571/l9aopu76dbgemwp4bdc5.jpg
-4|Girls|Tops|Fame Forever by Lifestyle|Girls Printed Top|419|Girls_1592076055611.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104572/kvpfbdeclkcgszqrriqi.jpg
-5|Girls|Tops|Cub McPaws|Girls Shirt Style Twisted Top|27|Girls_1592076057917.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104572/o0xikli95lpsyaeujix1.jpg
-6|Girls|Tops|Peppa Pig|Girls Printed Top|237|Girls_1592076059564.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104573/wzxna6a48dyvdtnoaunv.jpg
-7|Girls|Tops|Pantaloons Junior|Girls Printed Blouson Top|403|Girls_1592076061198.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104574/ktv7fxhngfxbhhi8t96b.jpg
-8|Girls|Tops|YK|Girls Printed Bardot Top|184|Girls_1592076062836.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104575/lraq3m8ec00bluxomwte.jpg
-9|Girls|Tops|YK|Girls Printed Top  with Bow|140|Girls_1592076064475.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104576/yi6vxla0geyheaz9mze8.jpg
-10|Girls|Tops|Tommy Hilfiger|Girls Embroidered Top|217|Girls_1592076066729.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104576/ufyhowhui0rvv1gsq6zb.jpg
-11|Girls|Tops|Cherokee|Printed A-Line Top|21|Girls_1592076068366.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104577/ylsyudzk6vdw36wen5jd.jpg
-12|Girls|Tops|United Colors of Benetton|Minnie Mouse Printed Top|103|Girls_1592076070002.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104578/bojqrakrlzo9qjujb3v9.jpg
-13|Girls|Tops|612 league|Girls Printed Top|346|Girls_1592076071643.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104579/hesqrwmrgozxrhn6xbc8.jpg
-14|Girls|Tops|Juniors by Lifestyle|Girls Printed Top|107|Girls_1592076073278.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104580/u43p52wclkks5s52hvde.jpg
-15|Girls|Tops|Chicco|Girls Printed Knitted Top|219|Girls_1592076075023.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104581/haassfkekhxrcysch5hv.jpg
-16|Girls|Tops|H&M|Girls Flounce-Trimmed Blouse|103|Girls_1592076076658.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104581/dwf8ddcrutpreeyybucl.jpg
-17|Girls|Tops|Stupid Cupid|Printed Top|329|Girls_1592076078299.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104582/k8kjuacq2mehkx6m7cl7.jpg
-18|Girls|Tops|H&M|3-Pack Jersey Vest Tops|249|Girls_1592076079934.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104583/kvptaympkzhgv1mwnzlz.jpg
-19|Girls|Tops|United Colors of Benetton|Girls Cold-Shoulder Top|75|Girls_1592076081679.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104584/uraop2zp6iebqhleu0vn.jpg
-20|Girls|Tops|United Colors of Benetton|Girls Floral Print Top|250|Girls_1592076083522.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104584/lzfxcld17eg2byy6aoel.jpg
-1|Girls|Tshirts|KUCHIPOO|Girls Pack of 5 T-shirts|273|Girls_1592076125893.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104585/pjbuewklvhxzvcbnxtvu.jpg
-2|Girls|Tshirts|YK Basics|Girls Pack of 3 T-shirts|78|Girls_1592076127174.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104586/onplrzrjw1aphllqsczm.jpg
-3|Girls|Tshirts|KUCHIPOO|Girls Pack of 5 T-shirts|276|Girls_1592076128785.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104587/ybgp6iatovuy33xtuc5p.jpg
-4|Girls|Tshirts|YK Disney|Girls Mickey Mouse T-shirt|199|Girls_1592076130521.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104588/vxtofm8fsn3xswajp6fa.jpg
-5|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|319|Girls_1592076132162.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104589/oud76kibsi6umy9qjpvf.jpg
-6|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|392|Girls_1592076133796.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104590/cbyeqbk67tbmo7nbqqjl.jpg
-7|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|317|Girls_1592076135438.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104591/pvqfy24v28ftuoexfewn.jpg
-8|Girls|Tshirts|Chicco|Girls Embroidered T-shirt|426|Girls_1592076137178.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104591/b5dpznwsd93v2tgah8q1.jpg
-9|Girls|Tshirts|SINI MINI|Girls Solid Round Neck T-shirt|18|Girls_1592076138918.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104592/xmjbsqehees357ms9scb.jpg
-10|Girls|Tshirts|United Colors of Benetton|Girls Printed T-shirt|255|Girls_1592076141071.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104593/hbfvkkbp3atsgggw8xch.jpg
-11|Girls|Tshirts|United Colors of Benetton|Girls Printed T-shirt|142|Girls_1592076143063.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104594/ssali8imkyqulfyjyclh.jpg
-12|Girls|Tshirts|Kids Ville|Printed Round Neck T-shirt|191|Girls_1592076144651.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104595/eizfzzbkp5bdzchcixub.jpg
-13|Girls|Tshirts|Kids Ville|Hello Kitty Printed T-shirt|477|Girls_1592076146677.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104596/ajp9kwlk9hwhouljj9lx.jpg
-14|Girls|Tshirts|Kids Ville|Printed Round Neck T-shirt|136|Girls_1592076148708.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104597/rsu63rbe9nfiqwhqvdvb.jpg
-15|Girls|Tshirts|Chicco|Girls Round Neck T-shirt|291|Girls_1592076150707.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104598/dr7f2xcjwv8qtdc9ygvr.jpg
-16|Girls|Tshirts|HRX by Hrithik Roshan|U-17 Girls Active T-shirt|186|Girls_1592076152271.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104598/xdpfo2pac543mpovdapj.jpg
-17|Girls|Tshirts|The Childrens Place|Girls Glitter Printed T-shirt|68|Girls_1592076154379.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104599/kthrphcd4ppfagqvyxb5.jpg
-18|Girls|Tshirts|Monte Carlo|Girls Solid Polo Collar T-shirt|449|Girls_1592076156631.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104600/zdxu7loprjbpgwoickfz.jpg
-19|Girls|Tshirts|Kids Ville|Girls Minions Printed T-shirt|301|Girls_1592076159034.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104601/ndivwjsgkngjf6jpluco.jpg
-20|Girls|Tshirts|United Colors of Benetton|Girls Solid Round Neck T-shirt|351|Girls_1592076161283.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104602/m9b193qm4ejmaousvcco.jpg
-1|Girls|Sweatshirts|Pantaloons Junior|Girls Solid Sweatshirt|162|Girls_1592076204031.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104603/jdmdmcfammcwckvzmyup.jpg
-2|Girls|Sweatshirts|Pantaloons Junior|Girls Solid Sweatshirt|378|Girls_1592076205748.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104603/zuwj59co6ozhbhpbn3yc.jpg
-3|Girls|Sweatshirts|Nauti Nati|Girls Hooded Sweatshirt|18|Girls_1592076207531.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104604/pkr5jktvcciovjesbkjh.jpg
-4|Girls|Sweatshirts|MINI KLUB|Girls Printed Sweatshirt|424|Girls_1592076209588.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104605/dxox3kf0k1awefabw2x9.jpg
-5|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|218|Girls_1592076211285.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104606/buwukdorwx7d6hxsegss.jpg
-6|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|325|Girls_1592076213059.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104607/hfymzvocn4rafeyvoni2.jpg
-7|Girls|Sweatshirts|Cherry Crumble|Kids Printed Sweatshirt|259|Girls_1592076214801.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104608/xwtm8u5z9gewfy89raov.jpg
-8|Girls|Sweatshirts|Marks & Spencer|Girls Solid Sweatshirt|107|Girls_1592076215939.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104609/gaj41ajhheqixuscje86.jpg
-9|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Training Sweatshirt|34|Girls_1592076218293.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104610/koj8gtljjrajwzjrw0vi.jpg
-10|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|69|Girls_1592076219922.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104611/eggj19sc9emu36jnhyre.jpg
-11|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Girls Lifestyle|157|Girls_1592076221559.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104611/ert5qdlcli183xdnn9x1.jpg
+1|Girls|Dresses|Natilene|Girls Solid A-Line Dress|440|Girls_1592075978080.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123142/Girls%20Dresses/q_aqj00k.jpg
+2|Girls|Dresses|Pantaloons Junior|Girls Solid Pinafore Dress|432|Girls_1592075979890.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123072/Girls%20Dresses/W_oyna0t.png
+3|Girls|Dresses|CUTECUMBER|Girls Printed Fit and Flare Dress|192|Girls_1592075981531.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123073/Girls%20Dresses/y_sjloce.png
+4|Girls|Dresses|Pantaloons Junior|Girls Self Design Fit and Flare Dress|332|Girls_1592075983269.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123065/Girls%20Dresses/ji_llu2px.png
+5|Girls|Dresses|pspeaches|Girls Printed Fit and Flare Dress|274|Girls_1592075985008.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123066/Girls%20Dresses/io9_sv7f9m.png
+6|Girls|Dresses|Nauti Nati|Girls Ruffle A-Line Dress|331|Girls_1592075986752.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123057/Girls%20Dresses/io_xx1lyb.pngss
+7|Girls|Dresses|United Colors of Benetton|Solid Fit & Flare Dress|459|Girls_1592075988491.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123072/Girls%20Dresses/u_ygd6ub.png
+8|Girls|Dresses|Chicco|Girls Colourblocked Fit and Flare Dress|102|Girls_1592075989609.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123072/Girls%20Dresses/r_e0xd9k.png
+9|Girls|Dresses|MINI KLUB|Infant A-Line Dress|75|Girls_1592075991357.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123058/Girls%20Dresses/65t_sfrnfh.png
+10|Girls|Dresses|CUTECUMBER|Girls Floral Printed Dress|341|Girls_1592075992996.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123067/Girls%20Dresses/rw_j97y4c.png
+11|Girls|Dresses|LilPicks|Girls Printed Fit and Flare Dress|466|Girls_1592075994633.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123059/Girls%20Dresses/A_dlzj3i.png
+12|Girls|Dresses|Stylo Bug|Girls Printed Fit and Flare Dress|380|Girls_1592075996273.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123071/Girls%20Dresses/t_q0ozjt.png
+13|Girls|Dresses|Gini and Jony|Girls Printed Fit and Flare Dress|477|Girls_1592075997913.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123067/Girls%20Dresses/oj_bzzleb.png
+14|Girls|Dresses|GAP|Girls' Print Mix-Fabric Dress|209|Girls_1592075999693.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683123057/Girls%20Dresses/ft_xufoky.png
+1|Girls|Tops|Pantaloons Junior|Girls Checked Shirt Style Top|402|Girls_1592076050800.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121588/Girls%20Tops/trt_fdybrt.png
+2|Girls|Tops|Marks & Spencer|Girls Pack of 5 Bralette Tops|419|Girls_1592076052803.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121588/Girls%20Tops/utr_kesxnv.png
+3|Girls|Tops|CACA CINA|Georgette Polka Dot Top|132|Girls_1592076053918.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121588/Girls%20Tops/u_faroqg.png
+4|Girls|Tops|Fame Forever by Lifestyle|Girls Printed Top|419|Girls_1592076055611.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121585/Girls%20Tops/te5_aems7j.png
+5|Girls|Tops|Cub McPaws|Girls Shirt Style Twisted Top|27|Girls_1592076057917.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121586/Girls%20Tops/tt6s_nhk60j.png
+6|Girls|Tops|Peppa Pig|Girls Printed Top|237|Girls_1592076059564.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121584/Girls%20Tops/lp_shvmkt.png
+7|Girls|Tops|Pantaloons Junior|Girls Printed Blouson Top|403|Girls_1592076061198.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121582/Girls%20Tops/tret_lildny.png
+8|Girls|Tops|YK|Girls Printed Bardot Top|184|Girls_1592076062836.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121574/Girls%20Tops/oi_zfmfnp.png
+9|Girls|Tops|YK|Girls Printed Top  with Bow|140|Girls_1592076064475.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121575/Girls%20Tops/r_y1gr2v.png
+10|Girls|Tops|Tommy Hilfiger|Girls Embroidered Top|217|Girls_1592076066729.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121582/Girls%20Tops/re_ewkfoo.png
+11|Girls|Tops|Cherokee|Printed A-Line Top|21|Girls_1592076068366.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121574/Girls%20Tops/re5_cll28t.png
+12|Girls|Tops|United Colors of Benetton|Minnie Mouse Printed Top|103|Girls_1592076070002.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121574/Girls%20Tops/ji_ydxtjq.png
+13|Girls|Tops|612 league|Girls Printed Top|346|Girls_1592076071643.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121584/Girls%20Tops/tregf_agqdkf.png
+14|Girls|Tops|Juniors by Lifestyle|Girls Printed Top|107|Girls_1592076073278.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121578/Girls%20Tops/s_ilpt4j.png
+15|Girls|Tops|Chicco|Girls Printed Knitted Top|219|Girls_1592076075023.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121572/Girls%20Tops/ggg_n8mae4.png
+16|Girls|Tops|H&M|Girls Flounce-Trimmed Blouse|103|Girls_1592076076658.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121577/Girls%20Tops/er_fbkvmo.png
+17|Girls|Tops|Stupid Cupid|Printed Top|329|Girls_1592076078299.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121582/Girls%20Tops/tr56_lsqixy.png
+18|Girls|Tops|H&M|3-Pack Jersey Vest Tops|249|Girls_1592076079934.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121569/Girls%20Tops/iury5u_shmw3w.png
+19|Girls|Tops|United Colors of Benetton|Girls Cold-Shoulder Top|75|Girls_1592076081679.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121579/Girls%20Tops/rt_scgkpw.png
+20|Girls|Tops|United Colors of Benetton|Girls Floral Print Top|250|Girls_1592076083522.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683121575/Girls%20Tops/556_hlo7we.png
+1|Girls|Tshirts|KUCHIPOO|Girls Pack of 5 T-shirts|273|Girls_1592076125893.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124972/Girls%20Tshirts/23e_gsxsu6.png
+2|Girls|Tshirts|YK Basics|Girls Pack of 3 T-shirts|78|Girls_1592076127174.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124847/Girls%20Tshirts/eg5_zhfx3p.png
+3|Girls|Tshirts|KUCHIPOO|Girls Pack of 5 T-shirts|276|Girls_1592076128785.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124846/Girls%20Tshirts/3r_yfd2uy.png
+4|Girls|Tshirts|YK Disney|Girls Mickey Mouse T-shirt|199|Girls_1592076130521.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124844/Girls%20Tshirts/6_kxtjbb.png
+5|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|319|Girls_1592076132162.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124855/Girls%20Tshirts/e_qbq6io.png
+6|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|392|Girls_1592076133796.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124843/Girls%20Tshirts/7y_r1dtnp.png
+7|Girls|Tshirts|Kids Ville|Girls Printed Round Neck T-shirt|317|Girls_1592076135438.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124858/Girls%20Tshirts/ee3_jncgw7.png
+8|Girls|Tshirts|Chicco|Girls Embroidered T-shirt|426|Girls_1592076137178.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124843/Girls%20Tshirts/34de_wxpkuk.png
+9|Girls|Tshirts|SINI MINI|Girls Solid Round Neck T-shirt|18|Girls_1592076138918.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124852/Girls%20Tshirts/q_a8lwxo.png
+10|Girls|Tshirts|United Colors of Benetton|Girls Printed T-shirt|255|Girls_1592076141071.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124844/Girls%20Tshirts/56_umlq8b.png
+11|Girls|Tshirts|United Colors of Benetton|Girls Printed T-shirt|142|Girls_1592076143063.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124846/Girls%20Tshirts/64_q3nbsd.png
+12|Girls|Tshirts|Kids Ville|Printed Round Neck T-shirt|191|Girls_1592076144651.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124850/Girls%20Tshirts/dr_zzs2bp.png
+13|Girls|Tshirts|Kids Ville|Hello Kitty Printed T-shirt|477|Girls_1592076146677.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124852/Girls%20Tshirts/ew_p2pxs7.png
+14|Girls|Tshirts|Kids Ville|Printed Round Neck T-shirt|136|Girls_1592076148708.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124849/Girls%20Tshirts/er_pgirsz.png
+15|Girls|Tshirts|Chicco|Girls Round Neck T-shirt|291|Girls_1592076150707.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683124854/Girls%20Tshirts/w_h4dth5.png
+1|Girls|Sweatshirts|Pantaloons Junior|Girls Solid Sweatshirt|162|Girls_1592076204031.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126377/Girls%20Sweatshirts/wedf_kfng0y.png
+2|Girls|Sweatshirts|Pantaloons Junior|Girls Solid Sweatshirt|378|Girls_1592076205748.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126375/Girls%20Sweatshirts/erf_gz441s.png
+3|Girls|Sweatshirts|Nauti Nati|Girls Hooded Sweatshirt|18|Girls_1592076207531.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126374/Girls%20Sweatshirts/ui_joh71q.png
+4|Girls|Sweatshirts|MINI KLUB|Girls Printed Sweatshirt|424|Girls_1592076209588.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126370/Girls%20Sweatshirts/43re_ndft67.png
+5|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|218|Girls_1592076211285.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126372/Girls%20Sweatshirts/q_wb4aub.png
+6|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|325|Girls_1592076213059.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126374/Girls%20Sweatshirts/eqd_kkppij.png
+7|Girls|Sweatshirts|Cherry Crumble|Kids Printed Sweatshirt|259|Girls_1592076214801.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126370/Girls%20Sweatshirts/efrtg_jf64w0.png
+8|Girls|Sweatshirts|Marks & Spencer|Girls Solid Sweatshirt|107|Girls_1592076215939.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126373/Girls%20Sweatshirts/5tg_wbqzda.png
+9|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Training Sweatshirt|34|Girls_1592076218293.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126374/Girls%20Sweatshirts/trfd_vfhwmb.png
+10|Girls|Sweatshirts|HRX by Hrithik Roshan|U-17 Lifestyle Sweatshirt|69|Girls_1592076219922.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1683126374/Girls%20Sweatshirts/ji_ddhnmv.png
 1|Girls|Sweaters|CHUTPUT|Unisex Self Design Sweater|218|Girls_1592076264126.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104612/gxopg5ooffb4vcc9bxeb.jpg
 2|Girls|Sweaters|H&M|Girls Pointelle-Knit Cardigan|249|Girls_1592076265300.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104613/aa7xvumj7c0syifdbxhm.jpg
-3|Girls|Sweaters|H&M|Fine-Knit Cotton Cardigan|89|Girls_1592076267026.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104614/vbfczkhaxioafvw4fmhj.jpg
+3|Girls|Sweaters|H&M|X Fine-Knit Cotton Cardigan|89|Girls_1592076267026.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104614/vbfczkhaxioafvw4fmhj.jpg
 4|Girls|Sweaters|H&M|Textured-Knit Jumper|364|Girls_1592076269275.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104615/t7hvxfgzz3iifespmrud.jpg
 5|Girls|Sweaters|H&M|Fine-Knit Cotton Cardigan|364|Girls_1592076270916.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104616/hbnpbhnvs0ewavscuksg.jpg
 6|Girls|Sweaters|Fame Forever by Lifestyle|Girls Solid Cardigan Sweater|74|Girls_1592076273107.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104617/ln0cqueoutgxtuktpkls.jpg
@@ -905,11 +883,6 @@
 13|Girls|Sweaters|Natilene|Girls Pullover Sweater|26|Girls_1592076288223.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104623/xbzfsxojwhijlwei3a05.jpg
 14|Girls|Sweaters|United Colors of Benetton|Girls Patterned Pullover|233|Girls_1592076290269.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104624/om7d1gc0eqbs5z5p4vwn.jpg
 15|Girls|Sweaters|Marks & Spencer|Girls Ribbed Striped Pullover|346|Girls_1592076292007.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104624/p75w8w05sdam0phj57np.jpg
-16|Girls|Sweaters|H&M|Girls Knitted Jumper|160|Girls_1592076293749.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104625/o2n0djn1a3zctxwmfxne.jpg
-17|Girls|Sweaters|Nauti Nati|Girls Solid Cardigan|396|Girls_1592076296308.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104626/jdcctfvmgqw8yk0z1zxr.jpg
-18|Girls|Sweaters|H&M|Girls Textured-Knit Jumper|482|Girls_1592076299179.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104627/ov76zlg4thqtemwrxbbf.jpg
-19|Girls|Sweaters|MeeMee|Kids Sweater Set|441|Girls_1592076301428.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104628/bl9ddjqtucscesbirzjl.jpg
-20|Girls|Sweaters|Nauti Nati|Girls Self Design Sweater|24|Girls_1592076303071.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104629/rpyyi01wymtwgh3jqwiv.jpg
 1|Girls|Shorts|Fame Forever by Lifestyle|Girls Regular Fit Denim Shorts|41|Girls_1592076353049.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104630/kqjifwk5ge5c3octvqmg.jpg
 2|Girls|Shorts|Kids Ville|Girls Solid Ruffled Shorts|76|Girls_1592076354988.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104631/p80fqu9yqianwl8hl3t7.jpg
 3|Girls|Shorts|Dora|Girls Print Shorts|131|Girls_1592076356627.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104631/xut9wq0b1wzmjbklfkg3.jpg
@@ -950,26 +923,6 @@
 18|Girls|Jeans|Anouk|Girls Regular Fit Jeans|235|Girls_1592076468036.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104661/jtsrlymga8zxvzj7dkqq.jpg
 19|Girls|Jeans|Gini and Jony|Girls Regular Fit Jeans|220|Girls_1592076470190.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104662/d9nfhoucmivebewyqdls.jpg
 20|Girls|Jeans|H&M|Infant Skinny Fit Jeans|288|Girls_1592076471931.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104663/kflhrjpbe8hczszsp4k9.jpg
-1|Girls|Clothing Set|LilPicks|Girls Printed Top with Shorts|422|Girls_1592076520117.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104664/rgjmrqvdxmzdqjozexoy.jpg
-2|Girls|Clothing Set|Nauti Nati|Girls Printed Clothing Set|47|Girls_1592076522002.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104665/i7t6fk5quwccfffdaoxh.jpg
-3|Girls|Clothing Set|pspeaches|Girls Top with Printed Skirt|179|Girls_1592076523110.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104665/i38tv4ontgydzqadmsrg.jpg
-4|Girls|Clothing Set|Orange and Orchid|Set of 2 T-shirt with Shorts|57|Girls_1592076524230.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104667/cm4sute585tmcmm6zlcp.jpg
-5|Girls|Clothing Set|Nauti Nati|Girls Printed Clothing Set|177|Girls_1592076525997.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104668/qza0aqzqi2e4664mhrwe.jpg
-6|Girls|Clothing Set|H&M|3-Piece Cotton Jersey Set|178|Girls_1592076527638.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104668/a7q58om4p9kqrazhls61.jpg
-7|Girls|Clothing Set|Nauti Nati|Girls Printed Top with Shorts|439|Girls_1592076529376.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104669/twqdjkn1wlubcqbzuvzr.jpg
-8|Girls|Clothing Set|Chicco|Girls Printed T-shirt with Leggings|362|Girls_1592076531118.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104670/bksuznu6ro6iylznmthz.jpg
-9|Girls|Clothing Set|pspeaches|Girls Striped Top with Trousers|272|Girls_1592076532758.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104671/o5go2u7ws1ena9nlzdvl.jpg
-10|Girls|Clothing Set|H&M|Girls 2-Piece Clothing Set|275|Girls_1592076534498.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104672/pk7lsuj2slr0p3mhb27s.jpg
-11|Girls|Clothing Set|AWW HUNNIE|Girls Solid Top with Skirt|339|Girls_1592076536135.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104673/iakmxwrhhqyqjnxyt6gr.jpg
-12|Girls|Clothing Set|pspeaches|Girls Top with Printed Skirt|317|Girls_1592076537772.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104674/m9d1ga22q0o4supsazpc.jpg
-13|Girls|Clothing Set|Peppa Pig|Girls Printed Top with Leggings|198|Girls_1592076539413.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104676/rt2wqcqenhzyz1doopkf.jpg
-14|Girls|Clothing Set|H&M|2-Piece Viscose Clothing Set|21|Girls_1592076541155.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104677/adgptkcy5hr4mrgk7x1n.jpg
-15|Girls|Clothing Set|Anouk|Infant Girls Clothing Set|154|Girls_1592076543099.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104678/ynxygmmgjm22wq4neaeg.jpg
-16|Girls|Clothing Set|ADIVA|Girls Striped Clothing Set|74|Girls_1592076544739.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104679/ntrfhqe9qqq9d3iblcqv.jpg
-17|Girls|Clothing Set|Pranava|Girls Embellished T-shirt with Skirt|379|Girls_1592076546480.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104680/sudkpvvlnyxwcsvu2asn.jpg
-18|Girls|Clothing Set|Nauti Nati|Girls Top with Denim Dungarees|490|Girls_1592076548630.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104680/aqtgog584aqjgdo6kxr7.jpg
-19|Girls|Clothing Set|AWW HUNNIE|Girls Solid Top with Capris|95|Girls_1592076550268.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104681/kmylzntubnadjkcuctre.jpg
-20|Girls|Clothing Set|Pranava|Girls Printed T-shirt with Skirt|83|Girls_1592076552114.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104682/knpd1wkooieojumvkkaw.jpg
 1|Girls|Kurtis|Aarika|Women Striped Kurti|435|Girls_1592076586768.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104683/w0dygha7fdaavvh3ugz4.jpg
 2|Girls|Kurtis|Sangria|Girls Colourblocked Kurti|352|Girls_1592076588664.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104684/q5iaxkk7bfimdxnrpjlw.jpg
 3|Girls|Kurtis|Aarika|Girls Straight Kurti|98|Girls_1592076590409.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596104685/fgf7u8naskh4diar2qdv.jpg
