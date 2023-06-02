@@ -1,21 +1,22 @@
-# Base Package
-FROM node:14
-
+# Use a smaller base image
+FROM node:14-alpine AS base
 
 # Create app directory
 WORKDIR /usr/src/app
 
 # Install app dependencies
-# A wildcard is used to ensure both package.json AND package-lock.json are copied
-# where available (npm@5+)
 COPY ./client/package*.json ./
-
-RUN npm install
+RUN npm install --only=production
 
 # Bundle app source
 COPY . .
 
-#RUN yarn install
+# Specify the final production image
+FROM node:14-alpine
+
+# Copy only the necessary files from the base image
+WORKDIR /usr/src/app
+COPY --from=base /usr/src/app .
 
 # Initiate npm start
 CMD [ "npm", "run-script", "start_docker_dev" ]

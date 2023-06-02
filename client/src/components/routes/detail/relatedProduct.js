@@ -13,6 +13,7 @@ function RelatedProduct({ currentObjectID }) {
 
   return (
     <div>
+      <h1>Recommendation Products</h1>
       <FrequentlyBoughtTogether
         recommendClient={recommendClient}
         indexName={indexName}
