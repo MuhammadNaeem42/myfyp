@@ -9,6 +9,7 @@ import SignIn from "./routes/signin/signIn";
 import SignUp from "./routes/signup/signUp";
 import Product from "./routes/product/product";
 import ProductPage from "./routes/detail/productPage";
+//import ProductDetails from "./routes/detail/productDetails";
 import Checkout from "./routes/checkout/checkout";
 import ShoppingBag from "./routes/shoppingBag";
 import {SuccessPayment} from "./routes/successPayment";

@@ -1,12 +1,15 @@
 import React from 'react';
 
 import ProductDetails from './productDetails';
-import Demo from '../product/demo';
+import RelatedProduct from './relatedProduct';
 function ProductPage() {
-  return (
+
+    return (
     <div>
+      
       <ProductDetails />
-      <Demo />
+      <RelatedProduct />
+      
       
     </div>
   );

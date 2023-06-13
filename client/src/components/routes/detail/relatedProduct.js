@@ -1,23 +1,23 @@
 import React from 'react';
-import {
-  FrequentlyBoughtTogether,
-  RelatedProducts,
-} from '@algolia/recommend-react';
+import { FrequentlyBoughtTogether, RelatedProducts } from '@algolia/recommend-react';
 import recommend from '@algolia/recommend';
 
-const recommendClient = recommend('KNJ89P1P7L', '2a58e98f4949936eb4ca7dda99b8d34e');
-const indexName = 'ai_recommend_*';
+const recommendClient = recommend(
+  'HSL9DXG942',
+  'd352733a9ed989c6ade9b097b79a65c9'
+);
 
-function RelatedProduct({ currentObjectID }) {
+const indexName = 'book-store-2';
+
+function RelatedProduct({ id }) {
   // ...
 
   return (
     <div>
-      <h1>Recommendation Products</h1>
       <FrequentlyBoughtTogether
         recommendClient={recommendClient}
         indexName={indexName}
-        objectIDs={[currentObjectID]}
+        objectIDs={[id]}
         itemComponent={({ item }) => {
           return (
             <pre>
@@ -29,7 +29,7 @@ function RelatedProduct({ currentObjectID }) {
       <RelatedProducts
         recommendClient={recommendClient}
         indexName={indexName}
-        objectIDs={[currentObjectID]}
+        objectIDs={[id]}
         itemComponent={({ item }) => {
           return (
             <pre>

@@ -25,6 +25,33 @@ services:
     networks:
       - microservice
 
+  authentication-service:
+    build:
+      context: .
+      dockerfile: ./server/authentication-service/Dockerfile-dev
+    container_name: authentication-service-container
+    restart: always
+    depends_on:
+      - mysql-db
+      - redis-cache
+      - react-ui
+    environment:
+      - DB_HOST=mysql-db
+      - DB_PORT=${DB_PORT}
+      - DB_USER=${DB_USER}
+      - DB_PASS=${DB_PASS}
+      - DB_SCHEMA=${DB_SCHEMA}
+      - ACTIVE_PROFILE=${ACTIVE_PROFILE}
+      - PORT=${AUTHENTICATION_SERVICE_PORT}
+    links:
+      - mysql-db:mysql
+    expose:
+      - ${AUTHENTICATION_SERVICE_PORT}
+    ports:
+      - ${AUTHENTICATION_SERVICE_PORT}:${AUTHENTICATION_SERVICE_PORT}
+    networks:
+      - microservice
+
   common-data-service:
     build:
       context: .
@@ -56,6 +83,56 @@ services:
     networks:
       - microservice
 
+  search-suggestion-service:
+    build:
+      context: .
+      dockerfile: ./server/search-suggestion-service/Dockerfile-dev
+    container_name: search-suggestion-service-container
+    restart: always
+    depends_on:
+      - mysql-db
+      - redis-cache
+      - react-ui
+      - common-data-service
+      - authentication-service
+      - payment-service
+    environment:
+      - ACTIVE_PROFILE=${ACTIVE_PROFILE}
+      - PORT=${SEARCH_SUGGESTION_SERVICE_PORT}
+      - COMMON_DATA_SERVICE_URL=http://common-data-service:${COMMON_DATA_SERVICE_PORT}
+    expose:
+      - ${SEARCH_SUGGESTION_SERVICE_PORT}
+    ports:
+      - ${SEARCH_SUGGESTION_SERVICE_PORT}:${SEARCH_SUGGESTION_SERVICE_PORT}
+    networks:
+      - microservice
+
+  payment-service:
+    build:
+      context: .
+      dockerfile: ./server/payment-service/Dockerfile-dev
+    container_name: payment-service-container
+    restart: always
+    depends_on:
+      - mysql-db
+      - redis-cache
+      - react-ui
+    environment:
+      - DB_HOST=mysql-db
+      - DB_PORT=${DB_PORT}
+      - DB_USER=${DB_USER}
+      - DB_PASS=${DB_PASS}
+      - DB_SCHEMA=${DB_SCHEMA}
+      - ACTIVE_PROFILE=${ACTIVE_PROFILE}
+      - PORT=${PAYMENT_SERVICE_PORT}
+    links:
+      - mysql-db:mysql
+    expose:
+      - ${PAYMENT_SERVICE_PORT}
+    ports:
+      - ${PAYMENT_SERVICE_PORT}:${PAYMENT_SERVICE_PORT}
+    networks:
+      - microservice
   react-ui:
     build:
       context: .
