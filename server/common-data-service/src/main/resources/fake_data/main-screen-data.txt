@@ -22,4 +22,4 @@ carousel|Website/carousel/men-circular-icon.jpg|https://res.cloudinary.com/drzud
 carousel|Website/carousel/women-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105986/nbdn4usqzbklceqquf4j.jpg|Women
 carousel|Website/carousel/kids-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105987/yafkspofakzpyxywuuyu.jpg|Boys,Girls
 carousel|Website/carousel/home-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105988/koa6wiqk3dh41wzofzns.jpg|Home & Living
-carousel|Website/carousel/essentials-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105989/vjrturanxn2gkpj1d3nt.jp2|Essentials
+carousel|Website/carousel/essentials-circular-icon.jpg|https://res.cloudinary.com/dkpnzw63u/image/upload/v1689512235/Canva_50_Design_Milestone_Badge_170_200_px_ueuzf8.png|Essentials
